@@ -4,11 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=ABCeylan&style=flat)
 
-- 🎓 I'm currently studying Computer Science and Engineering at Middle East Technical University.
+- 🎓 I graduated from Middle East Technical University as a computer engineer.
 
 - 🌱 I’m currently interested in AR-VR.
 
-- 📫 How to reach me **anil.ceylan@metu.edu.tr**
+- 📫 How to reach me **ABCeylan99@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
